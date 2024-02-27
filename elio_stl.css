@@ -11,11 +11,11 @@ header {
     padding: 15px;
 }
 
-.logo { 
-    margin: 10px; /* Add margin on top and left */ 
-    width: auto;  /* Preserve the image's original width */
-    height: auto; /* Preserve the image's original height */ 
-}
+#logo{ 
+    position:fixed; 
+    top:10px; 
+    left:10px; 
+} 
 
 main {
     flex: 1;  
