@@ -11,8 +11,10 @@ header {
     padding: 15px;
 }
 
-.logo {
-    text-align: left; 
+.logo img { 
+    margin: 10px; /* Add margin on top and left */ 
+    width: auto;  /* Preserve the image's original width */
+    height: auto; /* Preserve the image's original height */ 
 }
 
 main {
