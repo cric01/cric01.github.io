@@ -13,8 +13,8 @@ header {
 
 #logo{ 
     position:fixed; 
-    top:10px; 
-    left:10px; 
+    top:10%; 
+    left:10%; 
 } 
 
 main {
