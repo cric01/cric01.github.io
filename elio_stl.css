@@ -22,6 +22,12 @@ header {
     bject-fit: none;*/
 } 
 */
+img.logo {
+  height: 70%;
+  width: 70%;
+}
+
+
 main {
     flex: 1;  
     display: flex;
