@@ -15,11 +15,11 @@ header {
 
 #logo { 
     /*position:absolute; */
-    top:7%; 
-    left:7%; 
-    width: 5px;
+    top:17%; 
+    left:17%; 
+    /*width: 5px;
     height: auto;
-    /*bject-fit: none;*/
+    bject-fit: none;*/
 } 
 
 main {
