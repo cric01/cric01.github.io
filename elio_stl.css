@@ -21,9 +21,11 @@ header {
     height: auto;
     bject-fit: none;
 } */
-img.logo {
-  height: 70%;
-  width: 70%;
+
+.logo-image {
+    float: left;
+    margin: 10px;
+    width: 200px;
 }
 
 
