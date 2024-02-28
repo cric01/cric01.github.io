@@ -14,10 +14,10 @@ header {
 
 
 #logo{ 
-    position:absolute; 
+    /*position:absolute; */
     top:7%; 
     left:7%; 
-    width: 70%;
+    width: 30%;
     height: auto;
     /*bject-fit: none;*/
 } 
