@@ -12,7 +12,7 @@ header {
     padding: 15px;
 }
 
-
+/*
 #logo { 
     position:absolute;
     top:17%; 
@@ -21,7 +21,7 @@ header {
     height: auto;
     bject-fit: none;*/
 } 
-
+*/
 main {
     flex: 1;  
     display: flex;
